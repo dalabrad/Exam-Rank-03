@@ -1,0 +1,17 @@
+This is a test file for get_next_line function.
+Each line should be read one by one.
+Make sure to handle newlines correctly.
+
+Good luck with your testing!
+This line is very long and should test how the function handles lines that exceed typical buffer sizes. Make sure your function can handle this without any issues.
+Short
+Another line with a newline character at the end.
+
+This line ends with a space 
+This line ends with a tab	
+This line ends with a carriage return\r
+This line has a null character in the middle\0right here.
+This line has multiple consecutive newlines.
+
+
+End of test file.
